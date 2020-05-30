@@ -93,5 +93,5 @@ PASS
 
 [1]: http://altairclone.com/downloads/manuals/8080%20Programmers%20Manual.pdf
 [2]: http://emulator101.com
-[3]: interfaces.go#L21
+[3]: https://godoc.org/github.com/danmrichards/go8080#MemReadWriter
 [4]: http://altairclone.com/downloads/cpu_tests/
