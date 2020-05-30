@@ -68,7 +68,7 @@ type (
 	// Option is a functional option that modifies a field on the CPU.
 	Option func(*Intel8080)
 
-	// Input/Ouput handlers.
+	// Input/Output handlers.
 	ifn func(byte) byte
 	ofn func(byte)
 )
